@@ -3,9 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Teachers Connect Hub](https://github.com/juanchieki/Algorithms-Practice)
-  
-  - [Hello world](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Teachers Connect Hub](https://github.com/juanchieki/Teachers-Connect-Hub)
 
 <h2>Certifications</h2>
 
